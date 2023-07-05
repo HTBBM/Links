@@ -14,7 +14,9 @@ body {
 h1 {
   text-align: center;
   color: #ff5555;
+  font-size: 50px;
   margin-bottom: 10px;
+  
 }
 
 .list {
