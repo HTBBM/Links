@@ -14,7 +14,7 @@ body {
 h1 {
   text-align: center;
   color: #ff5555;
-  font-size: 50px;
+  font-size: 60px;
   margin-bottom: 10px;
   
 }
@@ -22,6 +22,7 @@ h1 {
 .list {
   display: inline-block;
   text-align: left;
+  font-size: 30px;
 }
 
 hr {
